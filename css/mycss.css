@@ -5,3 +5,22 @@
 .blur{
     filter: blur(1.5px);
 }
+.resume-section img{
+    min-height:auto;
+    min-width:auto;
+    height: 180px;
+}
+.card-body{
+    min-height:auto;
+    min-width:auto;
+    min-height: 270px;
+}
+.card-footer{
+    background-color: transparent;
+}
+.card-footer a{
+    color: #495057;
+}
+.card-text{
+ color: #868e96;
+}
