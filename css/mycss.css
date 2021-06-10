@@ -40,3 +40,8 @@
     text-decoration: none;
     color: #17a2b8 !important;
 }
+.lang{
+    margin-top: 50px;
+    color: rgba(255, 255, 255, 0.74);
+    font-size: 12px;
+}
