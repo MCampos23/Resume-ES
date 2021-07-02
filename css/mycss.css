@@ -45,3 +45,14 @@
     color: rgba(255, 255, 255, 0.74);
     font-size: 12px;
 }
+.linkedin-badges{
+    padding: 5px;
+    font-size: 20px;
+    list-style: none;    
+}
+.linkedin-badge-img{
+    max-width:100%;
+    height: auto;
+    width: 50px;
+    
+}
