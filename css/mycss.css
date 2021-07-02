@@ -51,8 +51,10 @@
     list-style: none;    
 }
 .linkedin-badge-img{
-    max-width:100%;
-    height: auto;
-    width: 50px;
+   height: auto; 
+    width: auto; 
+    max-width: 80px; 
+    max-height: 80px;
+
     
 }
