@@ -8,6 +8,7 @@
 .resume-section img{
     min-height:auto;
     min-width:auto;
+    height: 195px;
    }
 .card-body{
     min-height:auto;
@@ -46,14 +47,15 @@
 }
 .linkedin-badges{
     padding: 5px;
-    font-size: 20px;
+    font-size: 16px;
     list-style: none;    
 }
 .linkedin-badge-img{
    height: auto; 
     width: auto; 
-    max-width: 80px; 
-    max-height: 40px;
+    max-width: 60px; 
+    max-height: 35px;
+    margin: 5px 2px;
 
     
 }
