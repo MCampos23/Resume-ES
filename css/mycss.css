@@ -18,6 +18,9 @@
 .card-footer{
     background-color: transparent;
 }
+.card > a > img {
+    padding: 45px 55px;
+}
 .card-footer a{
     color: #495057;
 }
