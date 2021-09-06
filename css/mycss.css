@@ -19,7 +19,7 @@
     background-color: transparent;
 }
 .card > a > img {
-    padding: 45px 55px;
+    padding: 45px 30%;
 }
 .card-footer a{
     color: #495057;
@@ -61,4 +61,9 @@
     margin: 5px 2px;
 
     
+}
+@media (max-width:425px){
+    .card > a > img {
+        padding: 45px 25%;
+    }
 }
