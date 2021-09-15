@@ -8,7 +8,7 @@
 .resume-section img{
     min-height:auto;
     min-width:auto;
-    height: 195px;
+
    }
 .card-body{
     min-height:auto;
@@ -62,8 +62,4 @@
 
     
 }
-@media (max-width:425px){
-    .card > a > img {
-        padding: 45px 30%;
-    }
-}
+
